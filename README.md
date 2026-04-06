@@ -1,4 +1,4 @@
-# THE_JAL_PROJECT
+# THE JAL PROJECT
 Water - This clear, amorphous liquid is key to our life.
 
 Water Conservation and Monitoring System would enable a society or cluster of houses in the vicinity to monitor, limit and record their water usage via application in their phone. Users may choose laissez-faire or intermittent flow of water to their homes. The project is expected in an acropolis form.  The project includes using Arduino and Node MCU to bring this project to life.
